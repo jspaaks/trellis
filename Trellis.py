@@ -25,7 +25,7 @@ class Trellis:
                  nbins_image=100,
                  objective='time',
                  parameter_names=None,
-                 show_diagonal=False,
+                 show_diagonal=True,
                  show_image=True,
                  show_scatter=True,
                  verbose=False,
