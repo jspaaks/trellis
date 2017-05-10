@@ -1,0 +1,78 @@
+[{
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 1,
+    "num_streams": 1,
+    "time": 20.404076766967773
+}, {
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 1,
+    "num_streams": 2,
+    "time": 15.670905494689942
+}, {
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 1,
+    "num_streams": 4,
+    "time": 13.029843139648438
+}, {
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 1,
+    "num_streams": 8,
+    "time": 11.713497543334961
+}, {
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 1,
+    "num_streams": 16,
+    "time": 11.078969383239746
+}, {
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 1,
+    "num_streams": 32,
+    "time": 10.766432189941407
+}, {
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 2,
+    "num_streams": 1,
+    "time": 17.375903701782228
+}, {
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 2,
+    "num_streams": 2,
+    "time": 11.452639961242676
+}, {
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 2,
+    "num_streams": 4,
+    "time": 8.818188667297363
+}, {
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 2,
+    "num_streams": 8,
+    "time": 7.667916774749756
+}, {
+    "block_size_x": 16,
+    "block_size_y": 1,
+    "tile_size_x": 1,
+    "tile_size_y": 2,
+    "num_streams": 16,
+    "time": 7.214950275421143
+}]
