@@ -63,7 +63,7 @@ As previous, but with more efficient use of figure space:
 As previous, with manually set color axis limits:
 ![example-output-5.png](https://github.com/jspaaks/trellis/raw/master/images/example-output-5.png "Example output 5")
 
-As previous, with different ``matplotlib`` colormap (``PYGn``)
+As previous, with different ``matplotlib`` colormap (``PRGn``)
 ![example-output-6.png](https://github.com/jspaaks/trellis/raw/master/images/example-output-6.png "Example output 6")
 
 As previous, with different ``matplotlib`` colormap (``hsv``)
