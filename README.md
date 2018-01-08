@@ -51,10 +51,20 @@ sample of the data:
 ```
 
 
-![example-output-1.png](https://github.com/jspaaks/trellis/raw/master/images/example-output-1.png "Example output 1")
+Default visualization with nearest-neighbor interpolation as background to the matrix of scatter:
 ![example-output-2.png](https://github.com/jspaaks/trellis/raw/master/images/example-output-2.png "Example output 2")
+
+As previous, not showing the nearest-neighbor interpolation:
 ![example-output-3.png](https://github.com/jspaaks/trellis/raw/master/images/example-output-3.png "Example output 3")
+
+As previous, but with more efficient use of figure space:
 ![example-output-4.png](https://github.com/jspaaks/trellis/raw/master/images/example-output-4.png "Example output 4")
+
+As previous, with manually set color axis limits:
 ![example-output-5.png](https://github.com/jspaaks/trellis/raw/master/images/example-output-5.png "Example output 5")
+
+As previous, with different ``matplotlib`` colormap (``PRGn``)
 ![example-output-6.png](https://github.com/jspaaks/trellis/raw/master/images/example-output-6.png "Example output 6")
+
+As previous, with different ``matplotlib`` colormap (``hsv``)
 ![example-output-7.png](https://github.com/jspaaks/trellis/raw/master/images/example-output-7.png "Example output 7")
