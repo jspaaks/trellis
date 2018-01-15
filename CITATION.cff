@@ -30,7 +30,7 @@ keywords:
   - "time series"
   - "automatic classification"
 license: Apache-2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, please cite it using these metadata."
 repository: "https://github.com/NLeSC/mcfly"
 title: mcfly
 version: "1.0.1"
